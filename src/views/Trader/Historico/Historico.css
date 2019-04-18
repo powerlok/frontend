@@ -1,0 +1,58 @@
+
+.HistoricoCss .ReactTable .rt-thead.-header {
+    top: -10px !important;
+    background: #fff;
+}
+
+.HistoricoCss .ReactTable .rt-thead.-filters {
+    top: 15px !important;
+    background: #fff;
+}
+
+.HistoricoCss .ReactTable .rt-th, .HistoricoCss .ReactTable .rt-td {
+    border: 0 !important;    
+}
+
+.HistoricoCss .ReactTable .rt-th:nth-child(1), .HistoricoCss .ReactTable .rt-td:nth-child(1) {
+    width: 5% !important;
+}
+
+.HistoricoCss .ReactTable .rt-th:nth-child(4), .HistoricoCss .ReactTable .rt-td:nth-child(4) {
+    width: 5% !important;
+}
+
+.HistoricoCss .ReactTable .rt-th:nth-child(5), .HistoricoCss .ReactTable .rt-td:nth-child(5) {
+    width: 4% !important;
+}
+
+.HistoricoCss .ReactTable .rt-th:nth-child(6), .HistoricoCss .ReactTable .rt-td:nth-child(6) {
+    width: 4% !important;
+}
+
+.HistoricoCss .ReactTable .rt-th:nth-child(7), .HistoricoCss .ReactTable .rt-td:nth-child(7) {
+    width: 8% !important;
+}
+
+.HistoricoCss .ReactTable .rt-th:nth-child(8), .HistoricoCss .ReactTable .rt-td:nth-child(8) {
+    width: 8% !important;
+}
+
+.HistoricoCss .ReactTable .rt-th:nth-child(9), .HistoricoCss .ReactTable .rt-td:nth-child(9) {
+    width: 8% !important;
+}
+
+.HistoricoCss .ReactTable .rt-th:nth-child(10), .HistoricoCss .ReactTable .rt-td:nth-child(10) {
+    width: 8% !important;
+}
+
+.HistoricoCss .ReactTable .rt-th:nth-child(11), .HistoricoCss .ReactTable .rt-td:nth-child(11) {
+    width: 8% !important;
+}
+
+.HistoricoCss .ReactTable .rt-tbody {
+    width: 100% !important;    
+ }
+
+ .HistoricoCss .ReactTable .rt-tbody .rt-tr-group {
+    border: 0;
+ }

@@ -1,0 +1,18 @@
+{
+    "parser": "babel-eslint",
+    "root": true,
+    "rules": {
+        "linebreak-style":"off",
+        "one-var": "off",
+        "init-declarations": "off",
+        "no-console": "off",
+        "no-inline-comments": "off"
+    },
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    }
+}

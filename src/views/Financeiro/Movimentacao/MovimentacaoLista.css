@@ -1,0 +1,54 @@
+/*.MovCss .ReactTable .rt-th, .MovCss .ReactTable .rt-td {
+    padding: 0 !important;
+    border: 0 !important;
+    margin: 17px -39px 0 0 !important;
+}
+
+.MovCss .ReactTable .rt-tbody {
+    width: 100% !important;
+ }
+
+ 
+.MovCss .ReactTable .rt-thead.-header {
+    top: -10px !important;
+    background: #fff;
+}
+
+.MovCss .ReactTable .rt-thead.-filters {
+    top: 15px !important;
+    background: #fff;
+}*/
+
+
+
+.MovCss .ReactTable .rt-thead.-header {
+    top: -10px !important;
+    background: #fff;
+}
+
+.MovCss .ReactTable .rt-thead.-filters {
+    top: 15px !important;
+    background: #fff;
+}
+
+.MovCss .ReactTable .rt-th, .MovCss .ReactTable .rt-td {
+    border: 0 !important;
+    
+}
+
+.MovCss .ReactTable .rt-th:nth-child(1), .MovCss .ReactTable .rt-td:nth-child(1) {
+    flex: 0 0 8% !important;
+}
+
+.MovCss .ReactTable .rt-th:nth-child(11), .MovCss .ReactTable .rt-td:nth-child(11) {
+    flex: 0 0 12% !important;
+}
+
+
+.MovCss .ReactTable .rt-tbody {
+    width: 100% !important;    
+ }
+
+ .MovCss .ReactTable .rt-tbody .rt-tr-group {
+    border: 0;
+ }

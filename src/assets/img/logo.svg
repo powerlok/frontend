@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/logo.5d5d9eef.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/img/logo.svg
+// module id = 1192
+// module chunks = 0

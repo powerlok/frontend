@@ -1,0 +1,25 @@
+/*.MovConc .ReactTable .rt-tbody {
+    overflow: auto;
+}*/
+
+.MovConc .ReactTable .rt-thead.-header {
+    top: -10px !important;
+    background: #fff;
+}
+
+.MovConc .ReactTable .rt-thead.-filters {
+    top: 15px !important;
+    background: #fff;
+}
+
+.MovConc .ReactTable .rt-th, .MovConc .ReactTable .rt-td {
+    border: 0 !important;
+}
+
+.MovConc .ReactTable .rt-th:nth-child(1), .MovConc .ReactTable .rt-td:nth-child(1) {
+    flex: 0 0 8% !important;
+}
+
+.MovConc .ReactTable .rt-tbody {
+    width: 100% !important;    
+ }
